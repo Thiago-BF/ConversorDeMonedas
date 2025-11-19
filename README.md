@@ -1,4 +1,4 @@
-# Conversor de Monedas en Java
+# Conversor de Monedas
 
 Este es un proyecto realizado en Java que permite convertir monedas utilizando la API pública de ExchangeRate-API.
 
